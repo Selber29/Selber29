@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @Janblocks1910 ();
-- 👀 I’m interested in Programming (thats crazy)();
-- 🌱 I’m currently learning HTML();
-- 💞️ I’m looking to collaborate on Everything();
-- 📫 How to reach me https://twitter.com/Janblocks_1910
-- 😄 Pronouns: He
-- ⚡ Fun fact: There is no Fun Fact about me :(
-
-<!---
-Janblocks1910/Janblocks1910 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <h1>👋 Hey There! Im Jan! 👋</h1>
+</p>
+<p align="center">
+  <picture>
+    <img src="/assets/PfP.jpg" alt="This is me :D">
+  </picture>
+</p>
+<p align="center">
+<a href="https://github.com/Janblocks1910"><img src="https://img.shields.io/github/followers/Janblocks1910?label=follow&style=for-the-badge&logo=github"></a>
+<a href="https://www.youtube.com/@pocoguy?sub_confirmation=1"><img src="https://img.shields.io/youtube/channel/subscribers/UCgNcvPvCe49kwNBE2QXYf-A?style=for-the-badge&logo=youtube&label=subscribe"></a>
+<a href="https://discord.gg/bSFseqq4QE"><img src="https://img.shields.io/discord/1262205605435932682?style=for-the-badge&label=join%20my%20discord&logo=discord&logoColor=white"></a>
+</p>
+<p align="center">
+<em>Discord server is not done btw</em>
+</p>
